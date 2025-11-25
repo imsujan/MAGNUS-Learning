@@ -1,11 +1,11 @@
 
-  # Learning Platform Blueprint
+  # Learning Platform
 
-  This is a code bundle for Learning Platform Blueprint. The original project is available at https://www.figma.com/design/OvFk83CSxNkOghxY3o2Mhh/Learning-Platform-Blueprint.
+  This is a code bundle for Learning Platform. 
 
   ## Running the code
 
-  Run `npm i` to install the dependencies.
+  Run `pnpm install` to install the dependencies.
 
-  Run `npm run dev` to start the development server.
+  Run `pnpm dev` to start the development server.
   
